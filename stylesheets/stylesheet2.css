@@ -1,0 +1,52 @@
+
+h2 {
+    position: absolute;
+	top:10px;
+	left:16%;
+	font-family: Helvetica;
+	font-weight: normal;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	#left:40%;
+	#text-align: left;
+	color: #0F88D8;
+}
+
+#twitterPic {
+	position: absolute;
+	top:10px;
+	left:5%;
+	
+}
+
+
+#worldimg {
+	position: absolute;
+	top:140px;
+	left:10%;
+	
+}
+
+
+#brimg {
+	position: absolute;
+	top:140px;
+	left:50%;
+	
+}
+
+
+#choose {
+
+    position: absolute;
+	top:87px;
+	left:75%;
+	font-family: Helvetica;
+	font-weight: normal;
+	color: #0F88D8;
+
+}
+
+
+
+
